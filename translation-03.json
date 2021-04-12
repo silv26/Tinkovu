@@ -14,15 +14,15 @@
 				"e":""
 			},
 			"question_2":{
-				"question": "¿En qué prefiere untar la mantequilla?",
+				"question": "¿En qué prefieres untar la mantequilla?",
 				"a": "Pan",
 				"b": "Galletas",
-				"c": "Tostada",
+				"c": "Tostadas",
 				"d": "No me gusta la mantequilla",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cómo te gusta el zumo por la mañana? ",
+				"question": "¿Cómo te gusta el zumo de naranja por la mañana?",
 				"a": "Hecho en casa, con naranjas frescas",
 				"b": "En una caja de zumo del supermercado",
 				"c": "No bebo zumo por la mañana",
@@ -103,22 +103,22 @@
 				"a": "Pan",
 				"b": "Galletas",
 				"c": "Tostadas",
-				"d": "No les gusta la mantequilla",
+				"d": "No le gusta la mantequilla",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cómo le gusta a [partenaireName] su zumo por la mañana?",
+				"question": "¿Cómo le gusta a [partenaireName] el zumo de naranja por la mañana?",
 				"a": "Hecho en casa, con naranjas frescas",
-				"b": "En una caja de cartón del supermercado",
-				"c": "No beben zumo por la mañana",
+				"b": "En una caja de zumo del supermercado",
+				"c": "No bebe zumo por la mañana",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
 				"question": "¿Qué hace [partenaireName] mientras desayuna?",
-				"a": "Ven la televisión",
-				"b": "Leen las noticias",
-				"c": "Están hablando por teléfono",
+				"a": "Ve la televisión",
+				"b": "Lee las noticias",
+				"c": "Está en su teléfono",
 				"d":"",
 				"e":""
 			},
