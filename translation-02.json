@@ -16,7 +16,7 @@
 			"question_2":{
 				"question": "¿Te gusta comer galletas antes de que lleguen los invitados?",
 				"a": "Sí, no puedo contenerme",
-				"b": "No, prefiero esperarlas",
+				"b": "No, prefiero esperarlos",
 				"c":"",
 				"d":"",
 				"e":""
@@ -100,8 +100,8 @@
 			},
 			"question_2":{
 				"question": "¿Es [partenaireName] el tipo de persona que come galletas antes de que lleguen los invitados?",
-				"a": "Sí, no pueden contenerse",
-				"b": "No, prefieren esperarlas",
+				"a": "Sí, no puede contenerse",
+				"b": "No, prefiere esperarlos",
 				"c":"",
 				"d":"",
 				"e":""
@@ -132,7 +132,7 @@
 			},
 			"question_6":{
 				"question": "¿Pone [partenaireName] hielo en su bebida?",
-				"a": "Sí, ¡quieren que esté muy fría!",
+				"a": "Sí, ¡quiere que esté muy fría!",
 				"b": "No, porque cambia el sabor",
 				"c":"",
 				"d":"",
